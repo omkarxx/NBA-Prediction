@@ -16,15 +16,25 @@ players and rank them according to their various features.
 ## Methodology 
 
 Tools used:
+
 • Google Colab
+
 • Python
+
 • Tableau Prep Builder - Data Cleaning and Pipelining
+
 • Tableau Desktop - Data Analytics and Visualizations
+
 • Microsoft Excel - Data Preparation
 
 Libraries used:
+
 • Scikit Learn
+
 • Seaborn
+
 • Matplotlib
+
 • Pandas
+
 • NumPy
