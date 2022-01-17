@@ -12,3 +12,19 @@ the win % depends on the individual team performance as well
 • To compare the players more easily based on their past performances we will use
 different data visualizing techniques using tableau. By this we can sort or filter
 players and rank them according to their various features.
+
+## Methodology 
+
+Tools used:
+• Google Colab
+• Python
+• Tableau Prep Builder - Data Cleaning and Pipelining
+• Tableau Desktop - Data Analytics and Visualizations
+• Microsoft Excel - Data Preparation
+
+Libraries used:
+• Scikit Learn
+• Seaborn
+• Matplotlib
+• Pandas
+• NumPy
