@@ -15,7 +15,7 @@ players and rank them according to their various features.
 
 ## Methodology 
 
-Tools used:
+### Tools used:
 
 • Google Colab
 
@@ -27,7 +27,7 @@ Tools used:
 
 • Microsoft Excel - Data Preparation
 
-Libraries used:
+### Libraries used:
 
 • Scikit Learn
 
