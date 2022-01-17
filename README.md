@@ -38,3 +38,31 @@ players and rank them according to their various features.
 • Pandas
 
 • NumPy
+
+## Observation and Finding
+
+We trained our features using Logistic Regression Classifier And Random Forest 
+Classifier with Randomized search CV and Grid Search CV and the following were the 
+accuracies obtained
+
+### Accuracy of models:
+
+• logistic regression classifier –65.8%
+
+• logistic regression classifier with hyperparameter tuning using Random Search CV66.8%
+
+• logistic regression classifier with hyperparameter tuning using Grid Search CV-66.8%
+
+• Random Forest classifier –65.8%
+
+• Random Forest classifier with hyperparameter tuning using Random Search CV66.8%
+
+• Random Forest classifier with hyperparameter tuning using Grid Search CV-65.4%
+
+After compiling the program for Logistic Regression and Random Forest Classifier on 
+the available team data, we get accuracy of 65.4%–66.8% for win prediction. The 
+Highest testing accuracy is 66.8% and it is achieved by using Random Forest 
+Classifier Model with hyperparameter tuning using Random Search CV.
+
+• By building visualization on tableau, we are able to sort and filter players according 
+to their various features like number of matches played, accuracy of goals etc. 
