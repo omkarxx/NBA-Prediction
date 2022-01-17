@@ -49,15 +49,15 @@ accuracies obtained
 
 • logistic regression classifier –65.8%
 
-• logistic regression classifier with hyperparameter tuning using Random Search CV66.8%
+• logistic regression classifier with hyperparameter tuning using Random Search CV - 66.8%
 
-• logistic regression classifier with hyperparameter tuning using Grid Search CV-66.8%
+• logistic regression classifier with hyperparameter tuning using Grid Search CV - 66.8%
 
-• Random Forest classifier –65.8%
+• Random Forest classifier – 65.8%
 
-• Random Forest classifier with hyperparameter tuning using Random Search CV66.8%
+• Random Forest classifier with hyperparameter tuning using Random Search CV - 66.8%
 
-• Random Forest classifier with hyperparameter tuning using Grid Search CV-65.4%
+• Random Forest classifier with hyperparameter tuning using Grid Search CV - 65.4%
 
 After compiling the program for Logistic Regression and Random Forest Classifier on 
 the available team data, we get accuracy of 65.4%–66.8% for win prediction. The 
